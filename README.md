@@ -1,1 +1,2 @@
 # rare
+Hello,world!
